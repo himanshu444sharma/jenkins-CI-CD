@@ -1,3 +1,3 @@
 FROM ubuntu
-RUN echo "subscribe nudesphotos" > /temp/himanshufile
+RUN echo "I LOVE MUSIC " > /temp/himanshufile
 
